@@ -2,11 +2,21 @@
     "manifest": {
         "author": "Mishan_Ya#4696",
         "name": "Simple Material You (Monet)",
-        "version": "2.0.0"
+        "version": "2.5.0"
         "updater": "https:\/\/raw.githubusercontent.com\/mishan-ya\/AliUwUcordTheme3000\/main\/OneColorMonet\/one-color%20monet%202023%20%F0%9F%97%BF.json"
     },
     "background": {},
-    "fonts": {},
+    "fonts": {
+        "*": "https:\/\/github.com\/mishan-ya\/AliUwUcordTheme3000\/raw\/main\/OneColorMonet\/Content\/GoogleSnas-Medium(why).ttf",
+        "ginto_bold": "https:\/\/github.com\/mishan-ya\/AliUwUcordTheme3000\/raw\/main\/OneColorMonet\/Content\/GoogleSnas-Bold.ttf",
+        "ginto_medium": "https:\/\/github.com\/mishan-ya\/AliUwUcordTheme3000\/raw\/main\/OneColorMonet\/Content\/GoogleSnas-Medium(why).ttf",
+        "ginto_regular": "https:\/\/github.com\/mishan-ya\/AliUwUcordTheme3000\/raw\/main\/OneColorMonet\/Content\/GoogleSnas-Regular.ttf",
+        "whitney_semibold": "https:\/\/github.com\/mishan-ya\/AliUwUcordTheme3000\/raw\/main\/OneColorMonet\/Content\/GoogleSnas-Medium(why).ttf",
+        "whitney_medium": "https:\/\/github.com\/mishan-ya\/AliUwUcordTheme3000\/raw\/main\/OneColorMonet\/Content\/GoogleSnas-Medium(why).ttf",
+        "whitney_bold": "https:\/\/github.com\/mishan-ya\/AliUwUcordTheme3000\/raw\/main\/OneColorMonet\/Content\/GoogleSnas-Bold.ttf",
+        "roboto_medium_numbers": "https:\/\/github.com\/mishan-ya\/AliUwUcordTheme3000\/raw\/main\/OneColorMonet\/Content\/GoogleSnas-Medium(why).ttf",
+        "sourcecodepro_semibold": "https:\/\/github.com\/mishan-ya\/AliUwUcordTheme3000\/raw\/main\/OneColorMonet\/Content\/GoogleSnas-Medium(why).ttf"
+    },
     "simple_colors": {
         "background": "system_neutral1_900",
         "background_secondary": "system_neutral1_900",
