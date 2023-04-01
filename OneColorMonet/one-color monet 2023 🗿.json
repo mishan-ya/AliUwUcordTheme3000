@@ -1,11 +1,15 @@
 {
     "manifest": {
-        "author": "Mishan_Ya#6500",
-        "name": "One-Color Monet - buzzzz 🐝",
-        "version": "2.6.0",
+        "author": "Mr.Beast 😱 (Mishan_Ya#6500)",
+        "name": "One-Color Monet for Bluecord",
+        "version": "04.01.2023",
         "updater": "https:\/\/raw.githubusercontent.com\/mishan-ya\/AliUwUcordTheme3000\/main\/OneColorMonet\/one-color%20monet%202023%20%F0%9F%97%BF.json"
     },
-    "background": {},
+    "background": {
+        "url": "https:\/\/github.com\/mishan-ya\/AliUwUcordTheme3000\/raw\/main\/OneColorMonet\/Content\/FirstAprilJoke\/01.04.2023.png",
+        "blur_radius": 1,
+        "overlay_alpha": 0
+    },
     "fonts": {
         "*": "https:\/\/github.com\/mishan-ya\/AliUwUcordTheme3000\/raw\/main\/OneColorMonet\/Content\/GoogleSnas-Medium(why).ttf",
         "ginto_bold": "https:\/\/github.com\/mishan-ya\/AliUwUcordTheme3000\/raw\/main\/OneColorMonet\/Content\/GoogleSnas-Bold.ttf",
